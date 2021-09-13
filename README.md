@@ -41,7 +41,7 @@ For Windows:
 
 6. Go to https://gluonhq.com/products/javafx/ and download the "Product" called **JavaFX Mac OS X jmods** (version 11.0.2). You will get a ZIP file - extract it by double-clicking it. You can see it contains 7 files that end with the file extension `.jmod`. Copy this into the folder from step 5.
 
-7. Clone this repository (https://github.com/blairw/infs2605fxstarterkit) using **GitHub Desktop** (you installed this in step 2). You can see where, in your computer, the repository was cloned to by going to GitHub Desktop and hovering over the repository name.
+7. Clone this repository using **GitHub Desktop** (you installed this in step 2). You can see where, in your computer, the repository was cloned to by going to GitHub Desktop and hovering over the repository name.
 
 8. Open **Apache NetBeans 12**. On the first time you open it, you might receive a message asking if you want to import settings or configuration from NetBeans version 8 (if you previously had it installed). Do **not** allow NetBeans 12 to import these settings or configuration from NetBeans 8.  (If you have accidentally allowed NetBeans 12 to import settings or configuration from NetBeans 8, you can reinstall NetBeans 12 with the command `brew remove --cask netbeans; brew install --cask netbeans`.)
 
